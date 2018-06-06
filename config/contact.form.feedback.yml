@@ -1,0 +1,14 @@
+uuid: 09e09b64-0084-474c-8043-f46fb5498e92
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jeff@fourkitchens.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
